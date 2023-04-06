@@ -1,0 +1,36 @@
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\bin\Debug\net6.0-windows\Super Mario.exe
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\bin\Debug\net6.0-windows\Super Mario.deps.json
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\bin\Debug\net6.0-windows\Super Mario.runtimeconfig.json
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\bin\Debug\net6.0-windows\Super Mario.dll
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\bin\Debug\net6.0-windows\Super Mario.pdb
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.csproj.AssemblyReference.cache
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super_Mario.Form1.resources
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.csproj.GenerateResource.cache
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.AssemblyInfoInputs.cache
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.AssemblyInfo.cs
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.dll
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\refint\Super Mario.dll
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.pdb
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super Mario.genruntimeconfig.cache
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\ref\Super Mario.dll
+C:\Users\ervin\Desktop\seminarski\Super Mario\Super Mario\obj\Debug\net6.0-windows\Super_Mario.Properties.Resources.resources
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\bin\Debug\net6.0-windows\Super Mario.exe
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\bin\Debug\net6.0-windows\Super Mario.deps.json
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\bin\Debug\net6.0-windows\Super Mario.runtimeconfig.json
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\bin\Debug\net6.0-windows\Super Mario.dll
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\bin\Debug\net6.0-windows\Super Mario.pdb
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.csproj.AssemblyReference.cache
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super_Mario.Form1.resources
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super_Mario.Properties.Resources.resources
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.csproj.GenerateResource.cache
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.AssemblyInfoInputs.cache
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.AssemblyInfo.cs
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.dll
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\refint\Super Mario.dll
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.pdb
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\Super Mario.genruntimeconfig.cache
+C:\Users\ervin\Desktop\github - seminarski\2023_Avocode-o\Super Mario\obj\Debug\net6.0-windows\ref\Super Mario.dll

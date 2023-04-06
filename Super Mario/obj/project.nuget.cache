@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8sBPN/8dDuY0GDpLoW0IQerZF6fvbSvt/t8S4680x+Th1d/UDyaLbIaX9gVeLGOVoTmpwsf6zUxHeAlipJOe+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ervin\\Desktop\\github - seminarski\\2023_Avocode-o\\Super Mario\\Super Mario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ervin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}
