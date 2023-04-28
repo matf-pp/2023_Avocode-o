@@ -13,8 +13,7 @@ namespace Super_Mario
     public partial class Form1 : Form
     {
         public const int TILE = 48;
-        public const int SCREENWIDTH = 32;
-        // menjaj ako oces da vidis kako se ponasa kad ima dosta stvari na ekranu
+        public const int SCREENWIDTH = 28; // menja koliko tajlova je sirok ekran, veci broj -> sporije radi
 
         public Form1()
         {
@@ -31,16 +30,14 @@ namespace Super_Mario
 
         int speed = 8;
         int drawLevelPos = 0;
-        int lastDrawnPos = SCREENWIDTH / 2;
         int currentWorldPos = 0;
 
         int playerPosX = 0;
-        int playerPosY = 0;
 
-        int[,] currentWorld = new int[256, 16];
+        int[,] currentWorld = new int[256, 16]; // najveci nivo je 256 tajlova sirok
         bool moveLeft, moveRight, sprinting;
-        PictureBox[,] drawLevel = new PictureBox[SCREENWIDTH, 16];
-        private void timerTick(object sender, EventArgs e)
+        PictureBox[,] drawLevel = new PictureBox[SCREENWIDTH, 16]; // ono sto se vidi
+        private void timerTick(object sender, EventArgs e) // movementTimer event
         {
             if (sprinting) speed = 16; else speed = 8;
             if (moveLeft && player.Left > 0)
@@ -215,9 +212,9 @@ namespace Super_Mario
 
             }
             currentWorldPos++;
-        }
+        } // za generisanje tokom kretanja
 
-        private void renderLevelRTL()
+        private void renderLevelRTL() // za generisanje inicijalnog ekrana
         {
             drawLevelPos = drawLevelPos % (SCREENWIDTH);
             for (int i = 0; i < 16; i++)
