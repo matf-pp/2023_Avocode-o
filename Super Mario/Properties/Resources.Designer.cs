@@ -113,9 +113,29 @@ namespace Super_Mario.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Goomba {
+            get {
+                object obj = ResourceManager.GetObject("Goomba", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ground {
             get {
                 object obj = ResourceManager.GetObject("ground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap KoopaLand {
+            get {
+                object obj = ResourceManager.GetObject("KoopaLand", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,9 +233,9 @@ namespace Super_Mario.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pipeConnectorLeft {
+        internal static System.Drawing.Bitmap PipeConnectorBottom {
             get {
-                object obj = ResourceManager.GetObject("pipeConnectorLeft", resourceCulture);
+                object obj = ResourceManager.GetObject("PipeConnectorBottom", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +243,9 @@ namespace Super_Mario.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pipeConnectorVert {
+        internal static System.Drawing.Bitmap PipeConnectorTop {
             get {
-                object obj = ResourceManager.GetObject("pipeConnectorVert", resourceCulture);
+                object obj = ResourceManager.GetObject("PipeConnectorTop", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +253,9 @@ namespace Super_Mario.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pipeLeft {
+        internal static System.Drawing.Bitmap PipeHorizontalBottom {
             get {
-                object obj = ResourceManager.GetObject("pipeLeft", resourceCulture);
+                object obj = ResourceManager.GetObject("PipeHorizontalBottom", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +263,69 @@ namespace Super_Mario.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pipeTop {
+        internal static System.Drawing.Bitmap PipeHorizontalTop {
             get {
-                object obj = ResourceManager.GetObject("pipeTop", resourceCulture);
+                object obj = ResourceManager.GetObject("PipeHorizontalTop", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PipeLeftBottom {
+            get {
+                object obj = ResourceManager.GetObject("PipeLeftBottom", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PipeLeftTop {
+            get {
+                object obj = ResourceManager.GetObject("PipeLeftTop", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PipeTopLeft {
+            get {
+                object obj = ResourceManager.GetObject("PipeTopLeft", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PipeTopRight {
+            get {
+                object obj = ResourceManager.GetObject("PipeTopRight", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PipeVerticalLeft {
+            get {
+                object obj = ResourceManager.GetObject("PipeVerticalLeft", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PipeVerticalRight {
+            get {
+                object obj = ResourceManager.GetObject("PipeVerticalRight", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -261,8 +341,8 @@ namespace Super_Mario.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-        ///0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+        ///0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string world1_1 {
             get {

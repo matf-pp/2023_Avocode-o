@@ -133,8 +133,14 @@
   <data name="flag_tip" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\flag_tip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Goomba" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Goomba.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ground" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KoopaLand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\KoopaLand.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="loot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\loot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,22 +169,40 @@
   <data name="mario_small_swimming" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mario_small_swimming.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pipeConnectorLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pipeConnectorLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PipeConnectorBottom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeConnectorBottom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pipeConnectorVert" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pipeConnectorVert.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PipeConnectorTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeConnectorTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pipeLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pipeLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PipeHorizontalBottom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeHorizontalBottom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pipeTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pipeTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PipeHorizontalTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeHorizontalTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PipeLeftBottom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeLeftBottom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PipeLeftTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeLeftTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PipeTopLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeTopLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PipeTopRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeTopRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PipeVerticalLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeVerticalLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PipeVerticalRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PipeVerticalRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="solid" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\solid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="world1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1-1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+    <value>..\Resources\world1_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
 </root>

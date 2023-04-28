@@ -36,7 +36,6 @@
             label2 = new Label();
             label1 = new Label();
             timer1 = new System.Windows.Forms.Timer(components);
-            timer2 = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)player).BeginInit();
             level.SuspendLayout();
             SuspendLayout();
@@ -86,10 +85,6 @@
             label1.Tag = "";
             label1.Text = "label1";
             // 
-            // timer2
-            // 
-            timer2.Tick += timer2_Tick;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -114,7 +109,6 @@
         public Panel level;
         private Label label1;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.Timer timer2;
         private Label label2;
     }
 }
